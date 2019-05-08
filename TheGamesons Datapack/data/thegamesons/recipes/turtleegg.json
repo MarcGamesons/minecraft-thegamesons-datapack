@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:egg"
+        },
+        {
+            "item": "minecraft:seagrass"
+        }
+    ],
+    "result": {
+        "item": "minecraft:turtle_spawn_egg",
+        "count": 2
+    }
+}

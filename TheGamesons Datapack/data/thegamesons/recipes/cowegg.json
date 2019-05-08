@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:egg"
+        },
+        {
+            "item": "minecraft:beef"
+        }
+    ],
+    "result": {
+        "item": "minecraft:cow_spawn_egg",
+        "count": 2
+    }
+}

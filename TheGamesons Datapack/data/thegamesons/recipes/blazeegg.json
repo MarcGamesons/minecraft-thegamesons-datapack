@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:egg"
+        },
+        {
+            "item": "minecraft:blaze_rod"
+        }
+    ],
+    "result": {
+        "item": "minecraft:blaze_spawn_egg",
+        "count": 2
+    }
+}
