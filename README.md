@@ -21,3 +21,7 @@ Take a look at the [wiki](https://github.com/MarcGamesons/minecraft-thegamesons-
 	+ They now have 1 feather, 1 chicken and 1 egg as guaranteed drops.
 + Changed loot table of wither skeletons.
 	+ Increase the chance of "Wither Skeleton skulls" but you now need the "Looting" enchantment for them to drop.
+	
+---
+
+The Gamesons Datapack v1.0.0 was tested with Minecraft version 1.13.2.

@@ -1,1 +1,0 @@
-/tellraw @a ["",{"text":"TheGamesons Datapack v1.0.0 successfully loaded. Click ","color":"yellow"},{"text":"here","underlined":true,"color":"yellow","clickEvent":{"action":"open_url","value":"https://github.com/MarcGamesons/minecraft-thegamesons-datapack/releases"}},{"text":" for updates.","color":"yellow"}]
