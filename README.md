@@ -1,6 +1,8 @@
 # [The Gamesons](https://youtube.com/c/TheGamesons) Datapack
 
-All recipes can be found in the [wiki](https://github.com/MarcGamesons/minecraft-thegamesons-datapack/wiki/Recipes).
+For more information on how to install a Datapack click [here](https://minecraft.gamepedia.com/Tutorials/Installing_a_data_pack).
+
+All recipes can be found in the [wiki](https://github.com/MarcGamesons/minecraft-thegamesons-datapack/wiki).
 
 ---
 
