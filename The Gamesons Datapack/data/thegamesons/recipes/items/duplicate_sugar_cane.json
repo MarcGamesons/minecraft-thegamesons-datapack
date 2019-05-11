@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:sugar_cane"
+        },
+		{
+			"item": "minecraft:bone_meal"
+		}
+    ],
+    "result": {
+        "item": "minecraft:sugar_cane",
+        "count": 2
+    }
+}

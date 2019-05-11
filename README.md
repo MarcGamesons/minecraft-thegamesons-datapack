@@ -1,27 +1,50 @@
 # [The Gamesons](https://youtube.com/c/TheGamesons) Datapack
 
+All recipes can be found in the [wiki](https://github.com/MarcGamesons/minecraft-thegamesons-datapack/wiki/Recipes).
+
+---
+
+## v1.1.0 Changes
+
+### Additions:
+
++ Crafting:
+	+ Added recipes to recycle armor.
+	+ Added recipes to recycle horse armor.
+	+ Added recipes to recycle saddles.
+	+ Added recipe to duplicate sugar canes.
+	+ Added recipe to duplicate lily pad.
+
+### Misc:
+
++ Changed the file structure.
+
 ---
 
 ## v1.0.0 Changes
 
 ### Additions:
 
-+ Added recipes for several spawn eggs.
-+ Added recipe to convert wool to strings.
-+ Added recipe to cook rotten flesh into leather.
-+ Added recipe to craft dragon breath.
-+ Added recipe to craft podzol.
-+ Added recipe to craft mycelium.
++ Crafting:
+	+ Added recipes for several spawn eggs.
+	+ Added recipe to convert wool to strings.
+	+ Added recipe to craft dragon breath.
+	+ Added recipe to craft podzol.
+	+ Added recipe to craft mycelium.
+	
++ Smelting:
+	+ Added recipe to smelt rotten flesh into leather.
 
-Take a look at the [wiki](https://github.com/MarcGamesons/minecraft-thegamesons-datapack/wiki/Recipes) for the recipes.
+### Changes:
 
-### Changes
-
-+ Changed loot table of chickens.
-	+ They now have 1 feather, 1 chicken and 1 egg as guaranteed drops.
-+ Changed loot table of wither skeletons.
-	+ Increase the chance of "Wither Skeleton skulls" but you now need the "Looting" enchantment for them to drop.
++ Loot Tables:
+	+ Chickens:
+		+ Chickens now always drop: 1 feather, 1 chicken and 1 egg.
+		+ The looting enchantment doesn't affect chickens anymore.
+	+ Wither Skeletons:
+		+ Increases the chance of "Wither Skeleton skulls". 
+		+ The looting enchantment is now a requirment to get skulls.
 	
 ---
 
-The Gamesons Datapack v1.0.0 was tested with Minecraft version 1.13.2.
+The Gamesons Datapack v1.1.0 was tested with Minecraft version 1.13.2.
