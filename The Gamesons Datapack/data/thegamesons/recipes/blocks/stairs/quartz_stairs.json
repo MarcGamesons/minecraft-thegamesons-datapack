@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "P  ",
+        "PP ",
+        "PPP"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:quartz_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:quartz_stairs",
+        "count": 8
+    }
+}

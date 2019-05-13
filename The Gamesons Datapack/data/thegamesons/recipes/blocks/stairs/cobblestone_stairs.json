@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "P  ",
+        "PP ",
+        "PPP"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:cobblestone"
+        }
+    },
+    "result": {
+        "item": "minecraft:cobblestone_stairs",
+        "count": 8
+    }
+}

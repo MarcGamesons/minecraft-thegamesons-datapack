@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "P  ",
+        "PP ",
+        "PPP"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:purpur_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:purpur_stairs",
+        "count": 8
+    }
+}

@@ -6,6 +6,23 @@ All recipes can be found in the [wiki](https://github.com/MarcGamesons/minecraft
 
 ---
 
+## v1.3.0 Changes
+
+### Additions:
+
++ Crafting:
+	+ Added a new chest recipe.
+		+ Chests can now be crafted with 8 logs which will create 4 chests.
+	+ Added more string recipes.
+		+ It is now possible to craft strings from every colored wool.
+
+### Changes:
+
++ Crafting:
+	+ Changed stair recipes for all stairs.
+
+---
+
 ## v1.2.0 Changes
 
 ### Additions:
@@ -59,4 +76,4 @@ All recipes can be found in the [wiki](https://github.com/MarcGamesons/minecraft
 	
 ---
 
-The Gamesons Datapack v1.2.0 was tested with Minecraft version 1.13.2.
+The Gamesons Datapack v1.3.0 was tested with Minecraft version 1.13.2.
