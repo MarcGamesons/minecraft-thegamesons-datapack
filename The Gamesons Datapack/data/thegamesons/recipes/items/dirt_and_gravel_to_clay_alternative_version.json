@@ -1,0 +1,22 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "CDC",
+        "DWD",
+        "CDC"
+    ],
+    "key": {
+        "D": {
+            "item": "minecraft:dirt"
+        },
+        "C": {
+            "item": "minecraft:gravel"
+        },
+		"W": {
+            "item": "minecraft:water_bucket"
+        }
+    },
+    "result": {
+        "item": "minecraft:clay"
+    }
+}

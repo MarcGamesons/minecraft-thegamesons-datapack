@@ -6,6 +6,16 @@ All recipes can be found in the [wiki](https://github.com/MarcGamesons/minecraft
 
 ---
 
+## v1.2.0 Changes
+
+### Additions:
+
++ Crafting:
+	+ Added recipes to craft clay.
+	+ Added recipe to craft slime balls.
+
+---
+
 ## v1.1.0 Changes
 
 ### Additions:
@@ -29,7 +39,7 @@ All recipes can be found in the [wiki](https://github.com/MarcGamesons/minecraft
 
 + Crafting:
 	+ Added recipes for several spawn eggs.
-	+ Added recipe to convert wool to strings.
+	+ Added recipe to craft strings from wool (white wool only).
 	+ Added recipe to craft dragon breath.
 	+ Added recipe to craft podzol.
 	+ Added recipe to craft mycelium.
@@ -44,9 +54,9 @@ All recipes can be found in the [wiki](https://github.com/MarcGamesons/minecraft
 		+ Chickens now always drop: 1 feather, 1 chicken and 1 egg.
 		+ The looting enchantment doesn't affect chickens anymore.
 	+ Wither Skeletons:
-		+ Increases the chance of "Wither Skeleton skulls". 
+		+ Increased the chance of "Wither Skeleton skulls". 
 		+ The looting enchantment is now a requirment to get skulls.
 	
 ---
 
-The Gamesons Datapack v1.1.0 was tested with Minecraft version 1.13.2.
+The Gamesons Datapack v1.2.0 was tested with Minecraft version 1.13.2.
