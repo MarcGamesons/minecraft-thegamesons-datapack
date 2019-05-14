@@ -6,6 +6,15 @@ All recipes can be found in the [wiki](https://github.com/MarcGamesons/minecraft
 
 ---
 
+## v1.4.0 Changes
+
+### Additions:
+
++ Crafting:
+	+ Added recipe to craft [gunpowder]().
+
+---
+
 ## v1.3.0 Changes
 
 ### Additions:

@@ -1,0 +1,23 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "BCB",
+        "PCP",
+        "BCB"
+    ],
+    "key": {
+        "B": {
+            "item": "minecraft:bone_meal"
+        },
+        "C": {
+            "item": "minecraft:charcoal"
+        },
+		"P": {
+            "item": "minecraft:blaze_powder"
+        }
+    },
+    "result": {
+        "item": "minecraft:gunpowder",
+		"count": 4
+    }
+}
