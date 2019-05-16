@@ -6,16 +6,45 @@ All recipes can be found in the [wiki](https://github.com/MarcGamesons/minecraft
 
 ---
 
+## v1.6.0 Changes
+Compatible Minecraft version: 1.13.2 | Released on: 2019-05-08#1
+
+### Changes:
+
++ Changed the loot tables of almost all mobs.
+	+ All Mobs now have their main drop(s) as a guaranteed drop.
+
+### Fixes:
+
++ Fixed #1. It is now possible to craft 8 instead of 4 stairs for every stair recipe.
+
+---
+
+## v1.5.0 Changes
+Compatible Minecraft version: 1.13.2 | Released on: No public release.
+
+**This version has no public release.**
+
+### Changes:
+
++ Loot Tables:
+	+ Blazes now always drop 1 blaze rod.
+		+ The "Looting" enchantment does no longer have an effect on blazes.
+
+---
+
 ## v1.4.0 Changes
+Compatible Minecraft version: 1.13.2 | Released on: 2019-05-14#1
 
 ### Additions:
 
 + Crafting:
-	+ Added recipe to craft [gunpowder]().
+	+ Added recipe to craft gunpowder.
 
 ---
 
 ## v1.3.0 Changes
+Compatible Minecraft version: 1.13.2 | Released on: 2019-05-13#2
 
 ### Additions:
 
@@ -33,6 +62,7 @@ All recipes can be found in the [wiki](https://github.com/MarcGamesons/minecraft
 ---
 
 ## v1.2.0 Changes
+Compatible Minecraft version: 1.13.2 | Released on: 2019-05-13#1
 
 ### Additions:
 
@@ -43,6 +73,7 @@ All recipes can be found in the [wiki](https://github.com/MarcGamesons/minecraft
 ---
 
 ## v1.1.0 Changes
+Compatible Minecraft version: 1.13.2 | Released on: 2019-05-12#1
 
 ### Additions:
 
@@ -60,6 +91,7 @@ All recipes can be found in the [wiki](https://github.com/MarcGamesons/minecraft
 ---
 
 ## v1.0.0 Changes
+Compatible Minecraft version: 1.13.2 | Released on: 2019-05-08#1
 
 ### Additions:
 
@@ -75,14 +107,10 @@ All recipes can be found in the [wiki](https://github.com/MarcGamesons/minecraft
 
 ### Changes:
 
-+ Loot Tables:
++ Changed the following loot tables:
 	+ Chickens:
 		+ Chickens now always drop: 1 feather, 1 chicken and 1 egg.
 		+ The looting enchantment doesn't affect chickens anymore.
 	+ Wither Skeletons:
 		+ Increased the chance of "Wither Skeleton skulls". 
 		+ The looting enchantment is now a requirment to get skulls.
-	
----
-
-The Gamesons Datapack v1.3.0 was tested with Minecraft version 1.13.2.
